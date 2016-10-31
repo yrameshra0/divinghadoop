@@ -9,4 +9,4 @@
 hs_err_pid*
 
 #hadoop stable binary
-/hadoop
+/hadoop/2.7.3/
